@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Meu nome é Rafael e eu sou um Desenvolvedor do Brasil </h2>
+<h2 align="left">Opa ! Meu nome é Rafael e eu sou um Desenvolvedor FullStack  </h2>
 
 ###
 
